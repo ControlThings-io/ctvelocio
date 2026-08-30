@@ -5,7 +5,7 @@ A simple script to interact with the Velocio Ace 11 PLC via USB
 
 Testing was performed on an Ace 11. Other versions may not function as desired
 
-### Dependancies:
+### Dependencies:
 py-serial  http://pyserial.readthedocs.io/en/latest/pyserial.html
 
 ### Usage: 
